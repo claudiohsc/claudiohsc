@@ -2,7 +2,7 @@
 <h3 align="center">A Developer and Student of Programming.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiohsc" alt="claudiohsc" /> </p>
 
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and React-Native.
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, React-Native and WordPress.
 
 - 👨‍💻 All of my projects are available at [github.com/claudiohsc](https://github.com/claudiohsc)
 
