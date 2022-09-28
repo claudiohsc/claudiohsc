@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/claudiohsc" target="_blank" rel="external"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="claudiohsc" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/claudio-henrique1" target="_blank" rel="external"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="claudio-henrique1" height="30" width="30" /></a>
 </p>
