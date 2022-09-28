@@ -26,9 +26,5 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/claudio_hsc" target="_blank" rel="external"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="claudiohsc" height="30" width="30" /></a>
-<!--_
 <a href="https://linkedin.com/in/claudiohsc" target="_blank" rel="external"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="claudiohsc" height="30" width="30" /></a>
--->
-<a href="https://instagram.com/claudio_hsc" target="_blank" rel="external"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="claudiohsc" height="30" width="30" /></a>
 </p>
