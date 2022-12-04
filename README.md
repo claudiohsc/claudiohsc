@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **Python and JavaScript**
 
-- 📫 How to reach me: **@claudio_hsc**
+- 🤖 New projects are emerging!
 
 
 <p align="left">
