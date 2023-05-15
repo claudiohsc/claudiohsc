@@ -34,6 +34,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohsc&layout=compact&theme=tokyonight" alt="claudiohsc"/>
 </div>
 -->
+
 ## Contact
   
 <p align="left">
