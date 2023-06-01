@@ -27,13 +27,13 @@
 
 <br/>
 <hr/>
-<!--
+
 <div align='center'>
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=claudiohsc&show_icons=true&theme=tokyonight" alt="claudiohsc"/>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohsc&layout=compact&theme=tokyonight" alt="claudiohsc"/>
 </div>
--->
+
 
 ## Contact
   
